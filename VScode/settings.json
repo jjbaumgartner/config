@@ -4,6 +4,5 @@
 	"editor.insertSpaces": false,
 	"editor.detectIndentation": false,
 	"editor.wrappingIndent": "indent",
-	"editor.wordWrap": "on",
-	"workbench.welcome.enabled": false,
+	"editor.wordWrap": "on"
 }
